@@ -1,0 +1,5 @@
+marshmallow
+PyJWT
+Flask
+flask_restx
+flask_sqlalchemy
